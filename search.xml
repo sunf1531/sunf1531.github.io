@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>这是另一篇新的博文</title>
+      <link href="/2025/09/22/%E8%BF%99%E6%98%AF%E5%8F%A6%E4%B8%80%E7%AF%87%E6%96%B0%E7%9A%84%E5%8D%9A%E6%96%87/"/>
+      <url>/2025/09/22/%E8%BF%99%E6%98%AF%E5%8F%A6%E4%B8%80%E7%AF%87%E6%96%B0%E7%9A%84%E5%8D%9A%E6%96%87/</url>
+      
+        <content type="html"><![CDATA[<div class="video-container">[up主专用，视频内嵌代码贴在这]</div><style>.video-container {    position: relative;    width: 100%;    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */}.video-container iframe {    position: absolute;    top: 0;    left: 0;    width: 100%;    height: 100%;}</style>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>这是一篇新的文章的名字a</title>
+      <link href="/2025/09/21/%E8%BF%99%E6%98%AF%E4%B8%80%E7%AF%87%E6%96%B0%E7%9A%84%E6%96%87%E7%AB%A0a/"/>
+      <url>/2025/09/21/%E8%BF%99%E6%98%AF%E4%B8%80%E7%AF%87%E6%96%B0%E7%9A%84%E6%96%87%E7%AB%A0a/</url>
+      
+        <content type="html"><![CDATA[<h1 id="1这是一篇新的文章的名字b"><a href="#1这是一篇新的文章的名字b" class="headerlink" title="1这是一篇新的文章的名字b"></a>1这是一篇新的文章的名字b</h1><h2 id="2标题"><a href="#2标题" class="headerlink" title="2标题"></a>2标题</h2><h3 id="3标题"><a href="#3标题" class="headerlink" title="3标题"></a>3标题</h3><h4 id="4标题"><a href="#4标题" class="headerlink" title="4标题"></a>4标题</h4><h5 id="5标题"><a href="#5标题" class="headerlink" title="5标题"></a>5标题</h5><h6 id="6标题"><a href="#6标题" class="headerlink" title="6标题"></a>6标题</h6><h3 id="段落演示"><a href="#段落演示" class="headerlink" title="段落演示"></a>段落演示</h3><p>第一段  </p><p>第二段  </p><p>12345<br></p><h3 id="粗体演示"><a href="#粗体演示" class="headerlink" title="粗体演示"></a>粗体演示</h3><p><strong>粗体文本</strong></p><h3 id="斜体演示"><a href="#斜体演示" class="headerlink" title="斜体演示"></a>斜体演示</h3><p><em>斜体文本</em></p><h3 id="粗斜体演示"><a href="#粗斜体演示" class="headerlink" title="粗斜体演示"></a>粗斜体演示</h3><p><em><strong>粗斜体文本</strong></em></p><h3 id="删除线演示"><a href="#删除线演示" class="headerlink" title="删除线演示"></a>删除线演示</h3><p>~~ 删除线 ~~</p><h3 id="无序列表"><a href="#无序列表" class="headerlink" title="无序列表"></a>无序列表</h3><ul><li>项目一</li></ul><ul><li>项目二</li></ul><ul><li>项目三</li></ul><h3 id="有序列表"><a href="#有序列表" class="headerlink" title="有序列表"></a>有序列表</h3><ol><li>第一步</li><li>第二步</li><li>第三步</li></ol><h3 id="嵌套列表"><a href="#嵌套列表" class="headerlink" title="嵌套列表"></a>嵌套列表</h3><ul><li><p>项目1</p><ul><li>子项目1</li><li>子项目2</li></ul></li><li><p>项目1   </p><ul><li>子项目1</li><li>子项目2</li></ul></li></ul><p><a href="https://www.baidu.com/">baidu</a></p><p><img src="https://img.131213.xyz/tfile/BQACAgUAAx0Eflp52gABARSEaM-kGduuFNfT62N_baQYMsS66A0AAkgfAAJSfIBW72YisYNZzIU2BA" alt="timg7VWUA59T.jpg"></p><h3 id="图片扩展示例"><a href="#图片扩展示例" class="headerlink" title="图片扩展示例"></a>图片扩展示例</h3><p><img src="https://img.131213.xyz/tfile/BQACAgUAAx0Eflp52gABARSEaM-kGduuFNfT62N_baQYMsS66A0AAkgfAAJSfIBW72YisYNZzIU2BA" alt="图标|30*30|right"></p><h3 id="行内代码块"><a href="#行内代码块" class="headerlink" title="行内代码块"></a>行内代码块</h3><p><code>code</code></p><h3 id="代码块"><a href="#代码块" class="headerlink" title="代码块"></a>代码块</h3><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title function_">main</span><span class="params">(String[]</span></span><br><span class="line"><span class="params">args)</span>&#123;</span><br><span class="line">  System.out.println(<span class="string">&quot;Hello&quot;</span>);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><h3 id="引用示例"><a href="#引用示例" class="headerlink" title="引用示例"></a>引用示例</h3><blockquote><p>引用内容  </p><blockquote><p>嵌套引用内容</p></blockquote></blockquote><h3 id="多个星号"><a href="#多个星号" class="headerlink" title="多个星号"></a>多个星号</h3><hr><h3 id="多个减号"><a href="#多个减号" class="headerlink" title="多个减号"></a>多个减号</h3><hr><h3 id="基数表格示例"><a href="#基数表格示例" class="headerlink" title="基数表格示例"></a>基数表格示例</h3><table><thead><tr><th>表头1</th><th>表头2</th><th>表头2</th></tr></thead><tbody><tr><td>单元格1</td><td>单元格2</td><td>表头2</td></tr><tr><td>单元格3</td><td>单元格4</td><td>表头2</td></tr></tbody></table><table><thead><tr><th>标题1</th><th>标题2</th><th>标题3</th></tr></thead><tbody><tr><td>行1, 列1</td><td>行1, 列2</td><td>行1, 列3</td></tr><tr><td>行2, 列1</td><td>行2, 列2</td><td>行2, 列3</td></tr></tbody></table><table>    <tr>        <th>标题1</th>        <th>标题2</th>        <th>标题3</th>    </tr>    <tr>        <td>数据1</td>        <td>数据2</td>        <td>数据3</td>    </tr>    <tr>        <td>数据4</td>        <td>数据5</td>        <td>数据6</td>    </tr></table><h3 id="表格对齐示例"><a href="#表格对齐示例" class="headerlink" title="表格对齐示例"></a>表格对齐示例</h3><table><thead><tr><th align="left">左对齐</th><th align="right">右对齐</th><th align="center">居中对齐</th></tr></thead></table><h3 id="单元格中加入链接和图片示例"><a href="#单元格中加入链接和图片示例" class="headerlink" title="单元格中加入链接和图片示例"></a>单元格中加入链接和图片示例</h3><table><thead><tr><th>表头1</th><th>表头2</th></tr></thead><tbody><tr><td><a href="https://www.baidu.com/">baidu</a></td><td><img src="https://img.131213.xyz/tfile/BQACAgUAAx0Eflp52gABARSEaM-kGduuFNfT62N_baQYMsS66A0AAkgfAAJSfIBW72YisYNZzIU2BA" alt="logo"></td></tr><tr><td>单元格3</td><td>单元格4</td></tr></tbody></table><h3 id="任务列表示例"><a href="#任务列表示例" class="headerlink" title="任务列表示例"></a>任务列表示例</h3><ul><li>任务1  </li><li>[x]任务2</li></ul>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 标签 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2025/09/21/hello-world/"/>
+      <url>/2025/09/21/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
